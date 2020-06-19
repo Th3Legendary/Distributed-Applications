@@ -1,0 +1,14 @@
+C:\Users\thele\Desktop\DA\PC Building Utility\PC.Models\bin\Debug\netstandard2.0\PC.Models.deps.json
+C:\Users\thele\Desktop\DA\PC Building Utility\PC.Models\bin\Debug\netstandard2.0\PC.Models.dll
+C:\Users\thele\Desktop\DA\PC Building Utility\PC.Models\obj\Debug\netstandard2.0\PC.Models.csprojAssemblyReference.cache
+C:\Users\thele\Desktop\DA\PC Building Utility\PC.Models\obj\Debug\netstandard2.0\PC.Models.AssemblyInfoInputs.cache
+C:\Users\thele\Desktop\DA\PC Building Utility\PC.Models\obj\Debug\netstandard2.0\PC.Models.AssemblyInfo.cs
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Models\bin\Debug\netstandard2.0\PC.Models.deps.json
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Models\bin\Debug\netstandard2.0\PC.Models.dll
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Models\obj\Debug\netstandard2.0\PC.Models.csprojAssemblyReference.cache
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Models\obj\Debug\netstandard2.0\PC.Models.AssemblyInfoInputs.cache
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Models\obj\Debug\netstandard2.0\PC.Models.AssemblyInfo.cs
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Models\bin\Debug\netstandard2.0\PC.Models.pdb
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Models\obj\Debug\netstandard2.0\PC.Models.dll
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Models\obj\Debug\netstandard2.0\PC.Models.pdb
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Models\obj\Debug\netstandard2.0\PC.Models.csproj.CoreCompileInputs.cache

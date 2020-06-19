@@ -1,0 +1,12 @@
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\bin\Debug\netstandard2.0\PC.Data.deps.json
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\bin\Debug\netstandard2.0\PC.Data.dll
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\obj\Debug\netstandard2.0\PC.Data.csprojAssemblyReference.cache
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\obj\Debug\netstandard2.0\PC.Data.AssemblyInfoInputs.cache
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\obj\Debug\netstandard2.0\PC.Data.AssemblyInfo.cs
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\bin\Debug\netstandard2.0\PC.Data.pdb
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\bin\Debug\netstandard2.0\PC.Models.dll
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\bin\Debug\netstandard2.0\PC.Models.pdb
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\obj\Debug\netstandard2.0\PC.Data.csproj.CopyComplete
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\obj\Debug\netstandard2.0\PC.Data.dll
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\obj\Debug\netstandard2.0\PC.Data.pdb
+C:\Users\thele\Documents\GitHub\PCBuidingUtility\PC.Data\obj\Debug\netstandard2.0\PC.Data.csproj.CoreCompileInputs.cache
